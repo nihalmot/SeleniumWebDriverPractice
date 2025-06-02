@@ -22,6 +22,7 @@
 					<configuration>
 						<suiteXmlFiles>
 							<suiteXmlFile>parallelMethods.xml</suiteXmlFile>
+							<suiteXmlFile>parallelTests.xml</suiteXmlFile>
 						</suiteXmlFiles>
 					</configuration>
 				</plugin>
